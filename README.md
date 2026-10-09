@@ -1,4 +1,4 @@
-# Teste tecnico Engenheiro de dados Coude 2026
+# Consumindo dados da API (World Bank) com Python
 
 Criei um pipeline ETL simples que pega dados de uma API (World Bank) gratuita, os organiza, transforma e armazena. Depois foi feito um comparativo com gráficos
 dos dados que foram coletados da API.
